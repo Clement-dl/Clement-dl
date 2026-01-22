@@ -8,7 +8,7 @@ I enjoy designing robust, efficient systems from full-stack web applications to 
 
 📍 Engineering student at **ECE Paris (Class of 2027)**  
 🧠 Interested in **Data, AI, DevOps & Cybersecurity**  
-🤖 Worked on **Osint, Network Security, RAG systems, AI pipelines, and VR applications**  
+🤖 Worked on **Osint, Network Security, RAG systems, AI pipelines**  
 🔐 Hands-on experience in **cybersecurity & vulnerability management**  
 💼 Open to internships and opportunities in **Data / AI / Cybersecurity / Developpement full stack** for **April 2026**
 
@@ -24,7 +24,7 @@ I enjoy designing robust, efficient systems from full-stack web applications to 
 
 Here are some projects I’m particularly proud of:
 
-### 1️⃣ RAG System for Industrial Training (VR)
+### 1️⃣ RAG System for Industrial Training in VR
 Designed and optimized a **Retrieval-Augmented Generation pipeline** integrated into a **virtual reality training environment** for industrial use cases.  
 Worked on data structuring, model optimization, and AI integration into immersive workflows.
 
