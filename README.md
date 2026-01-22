@@ -17,54 +17,121 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 ## 🛠️ Skills
 
 <p align="center">
-  <!-- Langages -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javascript.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/php.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" width="45"/>
 
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/html5.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/css3.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/tailwindcss.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodejs.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javafx.svg" width="45"/>
+<!-- LANGAGES -->
+<a href="https://www.python.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+</a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+</a>
+<a href="https://www.php.net" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+</a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+</a>
 
-  <!-- Data -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/supabase.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg" width="45"/>
+<!-- WEB -->
+<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+</a>
+<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</a>
+<a href="https://tailwindcss.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</a>
+<a href="https://react.dev" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+</a>
+<a href="https://nextjs.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+</a>
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+</a>
+<a href="https://openjfx.io" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/javafx.svg"
+       width="45"
+       style="filter: invert(34%) sepia(99%) saturate(749%) hue-rotate(184deg) brightness(92%) contrast(90%);"/>
+</a>
 
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kubernetes.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubactions.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/ansible.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" width="45"/>
+<!-- DATA -->
+<a href="https://www.mysql.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+</a>
+<a href="https://supabase.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/supabase.svg"
+       width="45"
+       style="filter: invert(54%) sepia(76%) saturate(382%) hue-rotate(101deg) brightness(92%) contrast(90%);"/>
+</a>
+<a href="https://powerbi.microsoft.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg"
+       width="45"
+       style="filter: invert(72%) sepia(88%) saturate(429%) hue-rotate(4deg) brightness(98%) contrast(96%);"/>
+</a>
 
-  <!-- Cybersécurité -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nmap.svg" width="45"/>
+<!-- DEVOPS -->
+<a href="https://www.docker.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+</a>
+<a href="https://kubernetes.io" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
+</a>
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</a>
+<a href="https://code.visualstudio.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/>
+</a>
 
-  <!-- Adobe -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobephotoshop.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobelightroom.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobepremierepro.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobeaftereffects.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/adobeillustrator.svg" width="45"/>
+<!-- CYBERSÉCURITÉ -->
+<a href="https://www.metasploit.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg"
+       width="45"
+       style="filter: invert(11%) sepia(96%) saturate(6044%) hue-rotate(346deg) brightness(90%) contrast(103%);"/>
+</a>
+<a href="https://nmap.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nmap.svg"
+       width="45"
+       style="filter: invert(25%) sepia(98%) saturate(1200%) hue-rotate(192deg) brightness(92%) contrast(97%);"/>
+</a>
 
-  <!-- Hardware -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/raspberrypi.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/arduino.svg" width="45"/>
+<!-- ADOBE -->
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/>
+</a>
+<a href="https://www.adobe.com/products/lightroom.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg" width="45"/>
+</a>
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="45"/>
+</a>
+<a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="45"/>
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="45"/>
+</a>
+
+<!-- HARDWARE -->
+<a href="https://www.raspberrypi.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/raspberrypi.svg"
+       width="45"
+       style="filter: invert(22%) sepia(91%) saturate(4152%) hue-rotate(340deg) brightness(88%) contrast(103%);"/>
+</a>
+<a href="https://www.arduino.cc" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
+</a>
+
 </p>
-
-
-
 
 ---
 
