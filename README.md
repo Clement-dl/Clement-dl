@@ -20,8 +20,9 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 
   <!-- Programmation & Scripting -->
   <a href="https://www.python.org" target="_blank" style="text-decoration:none; margin:6px;">
-   <svg width="42" height="42" viewBox="0 0 24 24" fill="currentColor">
-    <path d="M12.09 0c-1.04.005-2.04.093-2.94.252-2.6.462-3.07 1.43-3.07 3.21v2.35h6.13v.78H3.68c-1.8 0-3.37 1.08-3.86 3.14-.56 2.36-.59 3.84 0 6.31.44 1.84 1.5 3.14 3.3 3.14h2.14v-2.84c0-2.05 1.77-3.86 3.86-3.86h6.12c1.7 0 3.07-1.4 3.07-3.12V3.46c0-1.68-1.42-2.94-3.07-3.21C14.25.09 13.14-.01 12.09 0z"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="42" height="42">
+    <path fill="#3776AB" d="M63.9 0C28.6 0 29.5 28.3 29.5 28.3s0 28.5 0 28.5h33.7V34.4H45.8s-3.1-2.1-3.1-6.6c0-4.5 0-8.2 0-8.2h21.2v-4.3H29.5S28.6 0 63.9 0z"/>
+    <path fill="#FFD43B" d="M64 128c35.3 0 34.4-28.3 34.4-28.3s0-28.5 0-28.5H64.7v22.4h17.3s3.1 2.1 3.1 6.6c0 4.5 0 8.2 0 8.2H64.7v4.3h33.7S63.9 128 64 128z"/>
   </svg>
   </a>
   <a href="https://www.java.com" target="_blank" style="text-decoration:none; margin:6px;">
