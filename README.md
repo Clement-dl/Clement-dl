@@ -17,61 +17,22 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 ## 🛠️ Skills
 
 <p align="center">
+ <p align="center">
   <!-- Programmation & Scripting -->
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=auto"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   </a>
   <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=auto"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=auto"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   </a>
   <a href="https://www.php.net" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=php&logoColor=auto"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   </a>
   <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=auto"/>
-  </a>
-
-  <!-- Web & Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=auto"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=auto"/>
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=tailwindcss&logoColor=auto"/>
-  </a>
-  <a href="https://react.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=auto"/>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=next.js&logoColor=auto"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=node.js&logoColor=auto"/>
-  </a>
-
-  <!-- IDE & Outils -->
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=visualstudiocode&logoColor=auto"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=auto"/>
-  </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=docker&logoColor=auto"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=kubernetes&logoColor=auto"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=postgresql&logoColor=auto"/>
-  </a>
-  <a href="https://supabase.com" target="_blank">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=supabase&logoColor=auto"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   </a>
 </p>
 
