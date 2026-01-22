@@ -16,122 +16,15 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 
 ## 🛠️ Skills
 
-<p align="center">
+<h3 align="center">A passionate frontend developer from India</h3>
 
-  <!-- Programmation & Scripting -->
-  <a href="https://www.python.org" target="_blank" style="text-decoration:none; margin:6px;">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="42" height="42">
-    <path fill="#3776AB" d="M63.9 0C28.6 0 29.5 28.3 29.5 28.3s0 28.5 0 28.5h33.7V34.4H45.8s-3.1-2.1-3.1-6.6c0-4.5 0-8.2 0-8.2h21.2v-4.3H29.5S28.6 0 63.9 0z"/>
-    <path fill="#FFD43B" d="M64 128c35.3 0 34.4-28.3 34.4-28.3s0-28.5 0-28.5H64.7v22.4h17.3s3.1 2.1 3.1 6.6c0 4.5 0 8.2 0 8.2H64.7v4.3h33.7S63.9 128 64 128z"/>
-  </svg>
-  </a>
-  <a href="https://www.java.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG JAVA]
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG JAVASCRIPT]
-  </a>
-  <a href="https://www.php.net" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG PHP]
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG C]
-  </a>
-
-  <!-- Développement Web & Logiciel -->
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG HTML]
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG CSS]
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG TAILWIND]
-  </a>
-  <a href="https://react.dev" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG REACT]
-  </a>
-  <a href="https://nextjs.org" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG NEXTJS]
-  </a>
-  <a href="https://nodejs.org" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG NODEJS]
-  </a>
-  <a href="https://openjfx.io" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG JAVAFX]
-  </a>
-
-  <!-- Data & Intelligence Artificielle -->
-  <a href="https://www.mysql.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG MYSQL]
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG POSTGRESQL]
-  </a>
-  <a href="https://supabase.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG SUPABASE]
-  </a>
-  <a href="https://powerbi.microsoft.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG POWERBI]
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG TENSORFLOW]
-  </a>
-
-  <!-- DevOps & Infrastructure -->
-  <a href="https://www.docker.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG DOCKER]
-  </a>
-  <a href="https://kubernetes.io" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG KUBERNETES]
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG GITHUBACTIONS]
-  </a>
-  <a href="https://www.ansible.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG ANSIBLE]
-  </a>
-  <a href="https://git-scm.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG GIT]
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG VSCODE]
-  </a>
-
-  <!-- Cybersécurité -->
-  <a href="https://www.metasploit.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG METASPLOIT]
-  </a>
-  <a href="https://nmap.org" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG NMAP]
-  </a>
-
-  <!-- Adobe & Design -->
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG PHOTOSHOP]
-  </a>
-  <a href="https://www.adobe.com/products/lightroom.html" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG LIGHTROOM]
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG PREMIERE]
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG AFTEREFFECTS]
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG ILLUSTRATOR]
-  </a>
-
-  <!-- Hardware & Microcontrôleurs -->
-  <a href="https://www.raspberrypi.com" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG RASPBERRYPI]
-  </a>
-  <a href="https://www.arduino.cc" target="_blank" style="text-decoration:none; margin:6px;">
-    [SVG ARDUINO]
-  </a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
 
 
 ---
