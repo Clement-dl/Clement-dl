@@ -17,24 +17,8 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 ## 🛠️ Skills
 
 **Programming & Scripting**  
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40"/>
 
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=vite&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=docker&logoColor=white" />
 
   
 
