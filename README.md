@@ -31,15 +31,20 @@ I enjoy designing robust, efficient systems — from full-stack web applications
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP"/>
   </a>
   <a href="https://www.mysql.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="SQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
 
   <!-- Data & Intelligence Artificielle -->
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="Machine Learning"/>
   </a>
   <a href="https://powerbi.microsoft.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" alt="Power BI"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Microsoft_Power_BI_logo.svg" width="50" alt="Power BI"/>
+  </a>
+  <a href="https://supabase.com" target="_blank">
+    <img src="https://seeklogo.com/images/S/supabase-logo-05B1B29E5C-seeklogo.com.png" width="50" alt="Supabase"/>
   </a>
 
   <!-- Développement Web & Logiciel -->
@@ -83,9 +88,6 @@ I enjoy designing robust, efficient systems — from full-stack web applications
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/>
   </a>
-  <a href="https://supabase.com" target="_blank">
-    <img src="https://seeklogo.com/images/S/supabase-logo-05B1B29E5C-seeklogo.com.png" width="50" alt="Supabase"/>
-  </a>
   <a href="https://git-scm.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
   </a>
@@ -94,11 +96,36 @@ I enjoy designing robust, efficient systems — from full-stack web applications
   </a>
 
   <!-- Cybersécurité -->
-  <a href="#" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Shield_icon.svg" width="50" alt="Cybersécurité"/>
+  <a href="https://www.metasploit.com" target="_blank">
+    <img src="https://seeklogo.com/images/M/metasploit-logo-0A3B5083C7-seeklogo.com.png" width="50" alt="Metasploit"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Automation_icon.svg" width="50" alt="Automatisation"/>
+  <a href="https://nmap.org" target="_blank">
+    <img src="https://seeklogo.com/images/N/nmap-logo-86D45150A0-seeklogo.com.png" width="50" alt="Nmap"/>
+  </a>
+
+  <!-- Design & Adobe -->
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" alt="Photoshop"/>
+  </a>
+  <a href="https://www.adobe.com/products/lightroom.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg" width="50" alt="Lightroom"/>
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="50" alt="Premiere Pro"/>
+  </a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="50" alt="After Effects"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="50" alt="Illustrator"/>
+  </a>
+
+  <!-- Microcontrôleurs & Raspberry Pi -->
+  <a href="https://www.raspberrypi.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Raspberry_Pi_Logo.svg" width="50" alt="Raspberry Pi"/>
+  </a>
+  <a href="https://www.arduino.cc" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/>
   </a>
 </p>
 
