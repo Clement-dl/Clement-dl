@@ -106,7 +106,7 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 
 <!-- ADOBE -->
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plains.svg" width="45"/>
 </a>
 <a href="https://www.adobe.com/products/lightroom.html" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lightroom/lightroom-original.svg" width="45"/>
