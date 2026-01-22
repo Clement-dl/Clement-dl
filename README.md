@@ -19,8 +19,10 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 <p align="center">
 
 <!-- LANGAGES -->
-<a href="https://www.python.org" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<a href="https://www.python.org" target="_blank" style="text-decoration:none;">
+  <svg width="42" height="42" viewBox="0 0 24 24" fill="#3776AB">
+    <path d="M12.09 0c-1.04.005-2.04.093-2.94.252-2.6.462-3.07 1.43-3.07 3.21v2.35h6.13v.78H3.68c-1.8 0-3.37 1.08-3.86 3.14-.56 2.36-.59 3.84 0 6.31.44 1.84 1.5 3.14 3.3 3.14h2.14v-2.84c0-2.05 1.77-3.86 3.86-3.86h6.12c1.7 0 3.07-1.4 3.07-3.12V3.46c0-1.68-1.42-2.94-3.07-3.21C14.25.09 13.14-.01 12.09 0z"/>
+  </svg>
 </a>
 <a href="https://www.java.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
