@@ -4,7 +4,7 @@
 
 I've been passionate about technology and programming for several years, starting during high school and continuing through my engineering studies at **ECE Paris**. Over time, I’ve developed strong interests in **data, artificial intelligence, cybersecurity, and software engineering**, working on both academic and real-world projects.
 
-I enjoy designing robust, efficient systems — from full-stack web applications to AI-powered pipelines and automation tools. I’m particularly interested in how **AI, data, and security** intersect in industrial and enterprise environments.
+I enjoy designing robust, efficient systems from full-stack web applications to AI-powered pipelines and automation tools. I’m particularly interested in how **AI, data, and security** intersect in industrial and enterprise environments.
 
 📍 Engineering student at **ECE Paris (Class of 2027)**  
 🧠 Interested in **Data, AI, DevOps & Cybersecurity**  
