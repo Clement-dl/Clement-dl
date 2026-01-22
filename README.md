@@ -10,7 +10,7 @@ I enjoy designing robust, efficient systems from full-stack web applications to 
 🧠 Interested in **Data, AI, DevOps & Cybersecurity**  
 🤖 Worked on **Osint, Network Security, RAG systems, AI pipelines, and VR applications**  
 🔐 Hands-on experience in **cybersecurity & vulnerability management**  
-💼 Open to internships and opportunities in **Data / AI / Cybersecurity / Developpement full stack**  
+💼 Open to internships and opportunities in **Data / AI / Cybersecurity / Developpement full stack** for **April 2026**
 
 ---
 
