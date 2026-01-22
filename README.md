@@ -17,7 +17,10 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 ## 🛠️ Skills
 
 **Programming & Scripting**  
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40"/>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" width="40"/>
+</a>
+
 
 
   
