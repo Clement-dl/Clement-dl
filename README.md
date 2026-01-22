@@ -1,4 +1,4 @@
-## Hi 👋 My name is Clément D'Alberto
+## My name is Clément D'Alberto
 
 ### Engineering Student | Data, AI & Cybersecurity Enthusiast
 
