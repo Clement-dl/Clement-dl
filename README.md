@@ -19,7 +19,7 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 <p align="center">
 
 <!-- LANGAGES -->
-<a href="https://www.python.org" target="_blank">
+<a href="https://www.python.org" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </a>
 <a href="https://www.java.com" target="_blank">
