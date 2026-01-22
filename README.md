@@ -16,13 +16,10 @@ I enjoy designing robust, efficient systems — from full-stack web applications
 
 ## 🛠️ Skills
 
-**Programming & Scripting**  
 <p align="center">
+  <!-- Programmation & Scripting -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -33,59 +30,87 @@ I enjoy designing robust, efficient systems — from full-stack web applications
   <a href="https://www.php.net" target="_blank">
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   </a>
-
-  <a href="https://code.visualstudio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
-  <a href="https://vuejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+
+  <!-- Data & Intelligence Artificielle -->
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-RAG-6E40C9?style=for-the-badge&logo=ai&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-ETL-FF5722?style=for-the-badge&logo=data&logoColor=white"/>
+  </a>
+  <a href="https://powerbi.microsoft.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black"/>
+  </a>
+
+  <!-- Développement Web & Logiciel -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
   <a href="https://tailwindcss.com" target="_blank">
     <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   </a>
-  <a href="https://vitejs.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <a href="https://react.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  <a href="https://openjfx.io" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaFX-0078D7?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
 
-  <a href="https://www.figma.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  </a>
-  <a href="https://www.arduino.cc" target="_blank">
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  </a>
-  <a href="https://www.raspberrypi.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  </a>
-  <a href="https://www.blender.org" target="_blank">
-    <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  </a>
+  <!-- DevOps & Infrastructure -->
   <a href="https://www.docker.com" target="_blank">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-CI/CD-0052CC?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  </a>
+  <a href="https://www.ansible.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  </a>
+
+  <!-- Bases de données & Outils -->
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  <a href="https://supabase.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  </a>
+
+  <!-- Cybersécurité -->
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Vuln%C3%A9rabilit%C3%A9s-FF0000?style=for-the-badge&logo=security&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Automatisation-008000?style=for-the-badge&logo=robot&logoColor=white"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Conformit%C3%A9-0000FF?style=for-the-badge&logo=check&logoColor=white"/>
+  </a>
 </p>
 
-
-
-
-  
-
-**Data & AI**  
-Machine Learning · RAG (Retrieval-Augmented Generation) · Data Processing · ETL · Power BI  
-
-**Web & Software Development**  
-HTML · CSS · Tailwind CSS · React · Next.js · Node.js · JavaFX  
-
-**DevOps & Infrastructure**  
-Docker · Kubernetes · CI/CD · GitHub Actions · Ansible  
-
-**Databases & Tools**  
-MySQL · PostgreSQL · Supabase · Git · VS Code  
-
-**Cybersecurity**  
-Vulnerability Management · Security Awareness · Automation · Compliance  
 
 ---
 
