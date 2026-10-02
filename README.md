@@ -39,6 +39,7 @@ Developed a **full-stack web platform** for online medical appointment booking w
 
 #### 2️⃣  DevOps Web Application & CI/CD Pipeline
 Built a Node.js web application used as a support to design a **complete DevOps pipeline**, including automated testing, Docker containerization, CI/CD with GitHub Actions, Infrastructure as Code, and Kubernetes deployment.
+https://github.com/omarelalamielfellousse/Projet-DevOps-Omar-Yassir-Clement
 
 #### 3️⃣ Alt-Endings – Interactive Web Platform
 Created a modern **full-stack web application** allowing users to explore movies and series, propose alternative endings, vote, and manage content securely using Next.js, Supabase, and external APIs.
