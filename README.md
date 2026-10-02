@@ -1,9 +1,11 @@
 # Clément D'Alberto
  
 📍 Security engineering student at **ECE Paris** (class of 2027)
+
 🤖 focused on **LLM & AI agent security** and **cloud security**.
 
 ​🌍​ Currently on exchange at **Sejong University, Seoul** (Sep–Dec 2026).
+
 💼 Looking for a **6-month security internship starting January 2027**, in Paris or abroad.
  
 ---
