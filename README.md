@@ -49,5 +49,5 @@ This project provided hands-on experience with **selection, mutation, crossover,
  
 #### 📫 Contact
  
-💼 LinkedIn: https://www.linkedin.com/in/ton-lien · clement.dalberto@gmail.com
+💼 LinkedIn: [https://www.linkedin.com/in/ton-lien](https://www.linkedin.com/in/cl%C3%A9ment-dalberto/) · clement.dalberto@gmail.com
 
