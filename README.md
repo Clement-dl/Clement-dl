@@ -1,7 +1,8 @@
 # Clément D'Alberto
  
-📍 Security engineering student at **ECE Paris** (class of 2027) 
-🤖 focused on **LLM & AI agent security** and **cloud security**. 
+📍 Security engineering student at **ECE Paris** (class of 2027)
+🤖 focused on **LLM & AI agent security** and **cloud security**.
+
 ​🌍​ Currently on exchange at **Sejong University, Seoul** (Sep–Dec 2026).
 💼 Looking for a **6-month security internship starting January 2027**, in Paris or abroad.
  
@@ -14,13 +15,13 @@ Designed and built *llmpentest*, a Python orchestrator that runs Garak and Promp
 *Internal code, not public. 
  
  
-### Previously
+### ​🕰️​ Previously
  
 - **L'Oréal, IT Europe Cybersecurity** (2024): weekly infrastructure vulnerability triage (CVE, CVSS); Python tool automating data-protection compliance checks on European web assets.
 - **CustomerTimes, Innovation team** (2025): RAG pipeline for an industrial training simulation in VR.
 
 
-### Toolbox
+### ​🔨​ Toolbox
  
 **Security**: OWASP LLM Top 10, prompt injection and jailbreak testing, Garak, Promptfoo, vulnerability management (CVE/CVSS)
 **AI**: LLM APIs (OpenAI, Anthropic, Azure OpenAI, OpenRouter, Ollama), RAG, agents, n8n, scikit-learn
