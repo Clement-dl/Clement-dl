@@ -34,17 +34,20 @@ Designed and built *llmpentest*, a Python orchestrator that runs Garak and Promp
 
 Here are some projects I’m particularly proud of:
 
-#### 1️⃣ Medicare – Medical Appointment Platform
+#### 1️⃣ IoT Adversary Emulator(https://github.com/angel0x7/IoT-Adversary-Emulator) (team project): 
+authored the MQTT attack module, an ARP-spoofing MITM that blocks a real sensor and injects forged data into the broker. Python, paho-mqtt, scapy.
+
+#### 2️⃣ Medicare – Medical Appointment Platform
 Developed a **full-stack web platform** for online medical appointment booking with multi-role management (admin, doctors, patients), secure authentication, and database-driven workflows.
 
-#### 2️⃣  DevOps Web Application & CI/CD Pipeline
+#### 3️⃣  DevOps Web Application & CI/CD Pipeline - https://github.com/omarelalamielfellousse/Projet-DevOps-Omar-Yassir-Clement
 Built a Node.js web application used as a support to design a **complete DevOps pipeline**, including automated testing, Docker containerization, CI/CD with GitHub Actions, Infrastructure as Code, and Kubernetes deployment.
-https://github.com/omarelalamielfellousse/Projet-DevOps-Omar-Yassir-Clement
 
-#### 3️⃣ Alt-Endings – Interactive Web Platform
+
+#### 4️⃣ Alt-Endings – Interactive Web Platform
 Created a modern **full-stack web application** allowing users to explore movies and series, propose alternative endings, vote, and manage content securely using Next.js, Supabase, and external APIs.
 
-#### 4️⃣ Genetic AI Racer
+#### ​5️⃣​ Genetic AI Racer
 Developed a **genetic algorithm** to train AI agents to drive a vehicle on a racing track.  
 This project provided hands-on experience with **selection, mutation, crossover, and optimization strategies**, as well as evolutionary learning in a dynamic environment.
  
