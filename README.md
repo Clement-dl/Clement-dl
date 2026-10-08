@@ -25,11 +25,11 @@ Designed and built *llmpentest*, a Python orchestrator that runs Garak and Promp
 
 ### ​🔨​ Toolbox
  
-**Security**: OWASP LLM Top 10, prompt injection and jailbreak testing, Garak, Promptfoo, vulnerability management (CVE/CVSS)
+**Security**: OWASP LLM Top 10, prompt injection and jailbreak testing, Garak, Promptfoo, vulnerability management (CVE/CVSS), Wireshark, metasploit, Burp
 
-**AI**: LLM APIs (OpenAI, Anthropic, Azure OpenAI, OpenRouter, Ollama), RAG, agents, n8n, scikit-learn
+**AI**: LLM APIs (OpenAI, Anthropic, Azure OpenAI, OpenRouter, Ollama), RAG, agents, n8n, scikit-learn, Strands, MCP, langchain
 
-**Dev**: Python, pytest, Java, JavaScript / Next.js, SQL / PostgreSQL
+**Dev**: Python, pytest, Java, JavaScript / Next.js, SQL / PostgreSQL, React, C, C++
 
 **DevOps**: Docker, GitHub Actions, Kubernetes
 
